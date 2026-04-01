@@ -44,6 +44,4 @@ In production this would scale to:
 - Responsible AI: system refuses to answer outside document scope
 
 ## Built By
-Dinesh Kotha | AI Developer Candidate
-MS Data Science, University at Buffalo
-linkedin.com/in/dineshkumar1716
+Dinesh Kotha
